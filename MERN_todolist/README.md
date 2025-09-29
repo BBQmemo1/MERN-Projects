@@ -1,6 +1,6 @@
-# MesDépenses
+# TodoList MERN
 
-Application MERN pour gérer vos dépenses.
+Application MERN pour gérer vos tâches.
 
 ## Installation rapide
 
@@ -12,7 +12,7 @@ npm install
 
 Créer `backend/.env` :
 ```env
-MONGODB_URI=mongodb://localhost:27017/expense-tracker
+MONGODB_URI=mongodb://localhost:27017/mern-todo
 PORT=5000
 ```
 
@@ -33,21 +33,21 @@ npm run dev
 **Terminal 2 - Frontend :**
 ```bash
 cd frontend
-npm run dev
+npm start
 ```
 
-Ouvrir **http://localhost:5173**
+Ouvrir **http://localhost:3000**
 
 ## Stack
 
 - MongoDB + Express + React + Node.js
-- Tailwind CSS
-- Vite
+- Architecture MVC
+- REST API
 
-##  Fonctionnalités
+## Fonctionnalités
 
--  Ajouter des dépenses
--  Supprimer des dépenses
--  Statistiques
--  Mode sombre
--  Filtres par catégorie
+-  Ajouter des tâches
+-  Modifier des tâches
+-  Marquer comme complété
+-  Supprimer des tâches
+-  Design responsive
