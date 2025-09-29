@@ -22,7 +22,7 @@ cd frontend
 npm install
 ```
 
-## ▶️ Démarrage
+## Démarrage
 
 **Terminal 1 - Backend :**
 ```bash
@@ -38,7 +38,7 @@ npm run dev
 
 Ouvrir **http://localhost:5173**
 
-## 🛠️ Stack
+## Stack
 
 - MongoDB + Express + React + Node.js
 - Tailwind CSS
