@@ -36,7 +36,7 @@ cd frontend
 npm start
 ```
 
-Ouvrir **http://localhost:3000**
+Ouvrir **http://localhost:5173**
 
 ## Stack
 
