@@ -33,7 +33,7 @@ npm run dev
 **Terminal 2 - Frontend :**
 ```bash
 cd frontend
-npm start
+npm run dev
 ```
 
 Ouvrir **http://localhost:5173**
